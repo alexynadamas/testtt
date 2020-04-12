@@ -25,6 +25,7 @@ public class Testtt extends Application {
         
         stage.setScene(scene);
         stage.show();
+        stage.setTitle("Consultas");
     }
 
     /**
